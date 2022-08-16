@@ -1,0 +1,6 @@
+Hello!
+This is Sujay Saha. This repo is for all the leetcode solutions done by me.
+
+You can mail me at mailtosujaysaha@yahoo.com or sujaysaha2906@outlook.com
+
+Thank You!
